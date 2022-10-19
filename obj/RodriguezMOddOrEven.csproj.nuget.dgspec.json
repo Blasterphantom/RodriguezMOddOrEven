@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "/Users/marcelrodriguez/Codestack22-23/Level1/MRodriguezGithubChallenges/RodriguezMOddOrEven/RodriguezMOddOrEven.csproj": {}
+    "/Users/manuel/Documents/GitRepository/RodriguezMOddOrEven/RodriguezMOddOrEven.csproj": {}
   },
   "projects": {
-    "/Users/marcelrodriguez/Codestack22-23/Level1/MRodriguezGithubChallenges/RodriguezMOddOrEven/RodriguezMOddOrEven.csproj": {
+    "/Users/manuel/Documents/GitRepository/RodriguezMOddOrEven/RodriguezMOddOrEven.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/marcelrodriguez/Codestack22-23/Level1/MRodriguezGithubChallenges/RodriguezMOddOrEven/RodriguezMOddOrEven.csproj",
+        "projectUniqueName": "/Users/manuel/Documents/GitRepository/RodriguezMOddOrEven/RodriguezMOddOrEven.csproj",
         "projectName": "RodriguezMOddOrEven",
-        "projectPath": "/Users/marcelrodriguez/Codestack22-23/Level1/MRodriguezGithubChallenges/RodriguezMOddOrEven/RodriguezMOddOrEven.csproj",
-        "packagesPath": "/Users/marcelrodriguez/.nuget/packages/",
-        "outputPath": "/Users/marcelrodriguez/Codestack22-23/Level1/MRodriguezGithubChallenges/RodriguezMOddOrEven/obj/",
+        "projectPath": "/Users/manuel/Documents/GitRepository/RodriguezMOddOrEven/RodriguezMOddOrEven.csproj",
+        "packagesPath": "/Users/manuel/.nuget/packages/",
+        "outputPath": "/Users/manuel/Documents/GitRepository/RodriguezMOddOrEven/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "/Users/marcelrodriguez/.nuget/NuGet/NuGet.Config"
+          "/Users/manuel/.nuget/NuGet/NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net6.0"
